@@ -126,9 +126,7 @@ These permissions ensure **accurate, uninterrupted tracking** under all system c
 ---
 
 ## 📱 APK Download
-
-*(Add APK link here)*
-
+- https://github.com/hanzlacode/FloatingWeb/releases/tag/v1.0.0
 ---
 
 ## ⚠️ Important Notes
