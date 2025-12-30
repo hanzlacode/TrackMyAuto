@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrackMyAuto</string>
+    <string name="default_web_client_id">650296136112-7qbq5m3omq2icrs9g42sk40ma77b38kf.apps.googleusercontent.com</string>
+    <string name="default_firebasedatabse_id">https://trackmyauto-default-rtdb.asia-south1.firebasedatabase.app/</string>
+
+
+</resources>
