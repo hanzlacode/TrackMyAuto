@@ -147,6 +147,5 @@ These permissions ensure **accurate, uninterrupted tracking** under all system c
 ---
 
 ## 📫 Contact
-
-**Md Hanzla Tanweer**
-📧 Email: [hanzla.code@gmail.com](mailto:hanzla.code@gmail.com)
+**Author:** Md Hanzla Tanweer  
+**Email:** hanzla.code@gmail.com
