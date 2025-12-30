@@ -54,6 +54,7 @@ The app is built with a strong focus on **background reliability**, ensuring con
 * Android Foreground Services
 * Google Fused Location API
 * Firebase Authentication
+* Firebase Firestore
 * Firebase Realtime Database
 * WorkManager
 * AlarmManager
